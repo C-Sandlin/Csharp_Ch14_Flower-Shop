@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace flower_shop
+namespace Flowershop
 {
     class Program
     {
